@@ -1,4 +1,3 @@
-```md id="s8k2vn"
 <h1 align="center">Hi 👋, I'm Sumitra Sen</h1>
 <h3 align="center">Software Engineer | Java | Spring Boot | AWS | Microservices | Backend Developer</h3>
 
@@ -91,4 +90,3 @@ Java | Spring | Spring Boot | Spring AOP | REST APIs | AWS S3 | Lambda | Kinesis
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" />
 </p>
-```
